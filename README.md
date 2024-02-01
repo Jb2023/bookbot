@@ -1,1 +1,1 @@
-# Bookbot is my first git project!
+# Bookbot displays basic stats about your text file
